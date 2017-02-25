@@ -7,12 +7,12 @@ You need to make changes by hands in control_name.Designer.cs file.
 
     partial class ShellForm
     {
-      /// <summary>
-      /// Required method for Designer support - do not modify
-      /// the contents of this method with the code editor.
-      /// </summary>
-      private void InitializeComponent()
-      {
-          CachedComponentResourceManager resources = new CachedComponentResourceManager(typeof(ShellForm));
-      }
-   }
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            CachedComponentResourceManager resources = new CachedComponentResourceManager(typeof(ShellForm));
+        }
+    }
